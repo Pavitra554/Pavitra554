@@ -8,16 +8,16 @@
 -  I ❤️ to learn new technologies
 -  Self learner....🙌🙌
 
-### Study's
-- Currently, I am purchasing B.Tech from Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
-- Institute of Technical Education & Research Bhubaneswar Odisha.
-
 ### Skills
 
 - Java
 - JavaScript
 - HTML & CSS
 - C language
+
+### Study's
+- Currently, I am purchasing B.Tech from Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+- Institute of Technical Education & Research Bhubaneswar Odisha.
 
 ### Contact me
 
