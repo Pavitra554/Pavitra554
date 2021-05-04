@@ -6,6 +6,11 @@
 -  I'm learning java as well... I have been learned the C language.
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
+-  Self learner....🙌🙌
+
+### Study's
+- Currently, I am purchasing B.Tech from Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+- Institute of Technical Education & Research Bhubaneswar Odisha.
 
 ### Skills
 
