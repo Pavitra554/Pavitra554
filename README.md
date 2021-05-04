@@ -23,9 +23,11 @@
 ### GitHub Stats
 
 ![Pavitra's Stats](https://github-readme-stats.vercel.app/api?username=Pavitra554&count_private=true&show_icons=true&theme=radical) 
-![Top language's](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Thanks for visiting🤗
+
+
 
 ![](http://pngimg.com/uploads/thank_you/thank_you_PNG137.png)
 
