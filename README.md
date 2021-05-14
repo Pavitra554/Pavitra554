@@ -12,6 +12,7 @@
 
 - Java
 - JavaScript
+- React.js
 - HTML & CSS
 - C language
 
