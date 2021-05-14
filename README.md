@@ -31,7 +31,8 @@
 ![Pavitra's Stats](https://github-readme-stats.vercel.app/api?username=Pavitra554&count_private=true&show_icons=true&theme=radical) 
 
 ### Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Thanks for visiting🤗
 
