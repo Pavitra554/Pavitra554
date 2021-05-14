@@ -38,5 +38,5 @@
 
 
 
-![](http://pngimg.com/uploads/thank_you/thank_you_PNG137.png)
+![](http://pngimg.com/uploads/github/github_PNG35.png)
 
