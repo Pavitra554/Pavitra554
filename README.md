@@ -25,6 +25,7 @@
 -  Email Id - pavitraredmi@gmail.com
 -  Linkedln - https://www.linkedin.com/in/pavitra-behara-07941a200/
 -  Hackerrank - https://www.hackerrank.com/pavitra_Behara?hr_r=1
+-  CodeChef - https://www.codechef.com/users/pavitra_2003
 
 ### GitHub Stats
 
