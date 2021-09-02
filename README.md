@@ -29,9 +29,13 @@
   </a><br/>
   
 ## Study's
-- Currently, I am purchasing B.Tech from Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
-- Institute of Technical Education & Research Bhubaneswar Odisha.
-
+- Currently, I am purchasing B.Tech from 
+  <a href="https://www.soa.ac.in/">
+    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
+  </a>
+- <a href="https://www.soa.ac.in/iter">
+    Institute of Technical Education & Research Bhubaneswar Odisha.
+  </a>
 ## Contact me
 
   <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
