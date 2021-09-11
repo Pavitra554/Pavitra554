@@ -57,8 +57,8 @@
   
 ## Compititive Programming 
 
--  Hackerrank - https://www.hackerrank.com/pavitra_Behara?hr_r=1
--    CodeChef - https://www.codechef.com/users/pavitra_2003
+- 5⭐in Java on Hackerrank - https://www.hackerrank.com/pavitra_Behara?hr_r=1
+- 2⭐on CodeChef (Beginner) - https://www.codechef.com/users/pavitra_2003
   
 ## GitHub Stats
 
