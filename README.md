@@ -6,7 +6,7 @@
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
 -  Self learner....🙌🙌
-
+<img src="https://komarev.com/ghpvc/?username=Pavitra554&label=Profile%20views&color=0e75b6&style=flat" alt="Pavitra554" />
 
 ## Skills
 
