@@ -20,6 +20,9 @@
   <a href="https://redux-toolkit.js.org/">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a><br/>
+  <a href="https://www.framer.com/motion/">
+   <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  </a><br/>
   <a href="https://reactrouter.com/">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   </a><br/>
