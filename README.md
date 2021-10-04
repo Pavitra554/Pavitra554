@@ -10,11 +10,12 @@
 
 ## Skills
 
+
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a><br/>
  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a><br/>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white">
   </a><br/>
   <a href="https://redux-toolkit.js.org/">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
