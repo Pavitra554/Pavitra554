@@ -1,8 +1,7 @@
 # Hey there,my self Pavitra Behara 👨‍💻
 
--  I’m interested in Web Development yet till
--  I’m currently learning Next.js and Redux 
--  I'm learning java as well... I have been learned the C language.
+-  I’m currently learning React Native.
+-  I'm learning java and DSA as well...💪
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
 -  Self learner....🙌🙌
