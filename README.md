@@ -7,7 +7,7 @@
 -  Self learner....🙌🙌
 <img src="https://komarev.com/ghpvc/?username=Pavitra554&label=Profile%20views&color=0e75b6&style=flat" alt="Pavitra554" />
 
-## Skills
+## Tech Stack
 
 
 <a href="https://nextjs.org/">
@@ -67,6 +67,8 @@
 - 2⭐on CodeChef (Beginner) - https://www.codechef.com/users/pavitra_2003
   
 ## GitHub Stats
+
+<p align="left"><img src="https://im4.ezgif.com/tmp/ezgif-4-134fd883c37a.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
 
 ![Pavitra's Stats](https://github-readme-stats.vercel.app/api?username=Pavitra554&count_private=true&show_icons=true&theme=radical) 
 
