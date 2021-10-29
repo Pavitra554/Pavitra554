@@ -68,7 +68,7 @@
   
 ## GitHub Stats
 
-<p align="left"><img src="https://im4.ezgif.com/tmp/ezgif-4-134fd883c37a.gif" alt="@arpanaditya Gitub Skyline" width="700" /></p>
+<p align="left"><img src="https://im4.ezgif.com/tmp/ezgif-4-134fd883c37a.gif" alt="@pavitra554" width="700" /></p>
 
 ![Pavitra's Stats](https://github-readme-stats.vercel.app/api?username=Pavitra554&count_private=true&show_icons=true&theme=radical) 
 
