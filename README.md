@@ -47,6 +47,37 @@
     <img height="40px" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   
+## Tool's
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+<a><img height="40px" alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+
+    
+    
+    
+ ## Compititive Programming 
+
+- 5⭐in Java on 
+    <a href="https://www.hackerrank.com/pavitra_Behara?hr_r=1">
+    <img alt="" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a><br/> 
+- 2⭐(Beginner) on
+   <a href="https://www.codechef.com/users/pavitra_2003">
+    <img alt="" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+  </a><br/>  
+    
 ## Study's
 - Currently, I am purchasing B.Tech from 
   <a href="https://www.soa.ac.in/">
@@ -67,10 +98,7 @@
     <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a><br/>
   
-## Compititive Programming 
 
-- 5⭐in Java on Hackerrank - https://www.hackerrank.com/pavitra_Behara?hr_r=1
-- 2⭐on CodeChef (Beginner) - https://www.codechef.com/users/pavitra_2003
   
 ## GitHub Stats
 
