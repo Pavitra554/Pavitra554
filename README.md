@@ -22,8 +22,14 @@
   <a href="https://www.framer.com/motion/">
    <img height="40px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
   </a>
+  <a href="https://tailwindcss.com/">
+    <img height="40px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
   <a href="https://reactrouter.com/">
     <img height="40px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  </a><br/>
+  <a href="https://firebase.google.com/">
+    <img height="40px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a><br/>
   <a  href="https://www.javascript.com/">
     <img height="40px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
