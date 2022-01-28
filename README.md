@@ -19,15 +19,17 @@
   <a href="https://redux-toolkit.js.org/">
     <img height="35px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a>
+  <a href="https://reactrouter.com/">
+    <img height="35px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  </a>
+  <br/>
   <a href="https://www.framer.com/motion/">
    <img height="35px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
   </a>
   <a href="https://tailwindcss.com/">
     <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
-  <a href="https://reactrouter.com/">
-    <img height="35px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  </a><br/>
+  <br/>
   <a href="https://firebase.google.com/">
     <img height="35px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   </a><br/>
