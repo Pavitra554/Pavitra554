@@ -1,6 +1,6 @@
 # Hey there,my self Pavitra Behara 👨‍💻
 
--  I’m currently learning React Native.
+-  I’m currently learning React Native Reanimated.
 -  I'm learning java and DSA as well...💪
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
