@@ -113,8 +113,14 @@
 
 ## Language's
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+    
+## GitHub Info
+ <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavitra554&theme=vue">
+    
 ## Thanks for visiting🤗
 
+
+    
 
 
 <img height="300" src="http://pngimg.com/uploads/github/github_PNG35.png" />
