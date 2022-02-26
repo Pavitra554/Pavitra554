@@ -112,7 +112,7 @@
 [![Pavitra's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Pavitra554)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)    
     
 ## GitHub Info
  <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavitra554&theme=vue">
