@@ -95,7 +95,7 @@
   </a>
 ## Contact me
 
-    <a href="https://twitter.com/behara_pavitra">
+  <a href="https://twitter.com/behara_pavitra">
     <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a><br/>
   <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
