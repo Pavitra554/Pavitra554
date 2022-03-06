@@ -18,7 +18,7 @@
     <img height="35px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
  <a href="https://reactjs.org/">
-    <img height="35px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="35px" src="https://img.shields.io/badge/React.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
   <a href="https://redux-toolkit.js.org/">
     <img height="35px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
