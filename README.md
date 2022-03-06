@@ -8,7 +8,9 @@
 <img height="35px" src="https://komarev.com/ghpvc/?username=Pavitra554&label=Profile%20views&color=0e75b6&style=flat" alt="Pavitra554" />
 
 ## Tech Stack
-
+<a href="https://docs.swmansion.com/react-native-reanimated/">
+    <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a><br/>
 <a href="https://reactnative.dev/">
     <img height="35px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
