@@ -85,9 +85,7 @@
   <a href="https://www.soa.ac.in/">
     Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
   </a>
-- <a href="https://www.soa.ac.in/iter">
-    Institute of Technical Education & Research Bhubaneswar Odisha.
-  </a>
+
 ## Contact me
 
   <a href="https://twitter.com/behara_pavitra">
