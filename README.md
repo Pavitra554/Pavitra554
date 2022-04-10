@@ -1,3 +1,5 @@
+ <img width="800px" src="https://raw.githubusercontent.com/developer-guy/developer-guy/master/code.gif">
+
 # Hey there,my self Pavitra Behara 👨‍💻
 
 -  I’m currently learning Node.js
