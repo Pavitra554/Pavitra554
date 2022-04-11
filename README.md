@@ -118,10 +118,6 @@
 ## Thanks for visiting🤗
 
 
-    
-
-
-<img height="300" src="http://pngimg.com/uploads/github/github_PNG35.png" />
 
 
 
