@@ -92,16 +92,16 @@
 
   <a href="https://twitter.com/behara_pavitra">
     <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a><br/>
+  </a>
   <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
     <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a><br/>
+  </a>
   <a href="https://www.instagram.com/pavitra.js/">
     <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a><br/>
+  </a>
   <a href="https://www.pavitraredmi@gmail.com">
     <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a><br/>
+  </a>
   
 
   
