@@ -2,7 +2,7 @@
 
 # Hey there,my self Pavitra Behara 👨‍💻
 
--  I’m currently learning Node.js
+-  I’m currently learning Express.js
 -  I'm learning java and DSA as well...💪
 -  And the most important thing I ❤️ what I do...
 -  I ❤️ to learn new technologies
