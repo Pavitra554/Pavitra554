@@ -12,53 +12,56 @@
 <img height="35px" src="https://komarev.com/ghpvc/?username=Pavitra554&label=Profile%20views&color=0e75b6&style=flat" alt="Pavitra554" />
 
 ## Tech Stack
+<a href="https://www.nodejs.dev/">
+    <img height="35px" src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=008000">
+  </a><br/>
 <a href="https://docs.swmansion.com/react-native-reanimated/">
-    <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
 <a href="https://reactnative.dev/">
-    <img height="35px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="35px" src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
 <a href="https://nextjs.org/">
     <img height="35px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
  <a href="https://reactjs.org/">
-    <img height="35px" src="https://img.shields.io/badge/React.Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="35px" src="https://img.shields.io/badge/React.Js-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
   <a href="https://redux-toolkit.js.org/">
-    <img height="35px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img height="35px" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764abc">
   </a>
   <a href="https://reactrouter.com/">
-    <img height="35px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    <img height="35px" src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=f44250">
   </a>
   <br/>
   <a href="https://www.framer.com/motion/">
-   <img height="35px" src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+   <img height="35px" src="https://img.shields.io/badge/Framer%20motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
   </a>
   <a href="https://tailwindcss.com/">
-    <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=22d3ee">
   </a>
   <br/>
   <a href="https://firebase.google.com/">
-    <img height="35px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <img height="35px" src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=#F4B400">
   </a><br/>
   <a  href="https://www.javascript.com/">
-    <img height="35px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img height="35px" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=#f7df1e">
   </a>
   <a  href="https://www.typescriptlang.org/">
-    <img height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img height="35px" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a><br/>
   
   <a href="https://www.java.com/en/">
-    <img height="35px" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img height="35px" alt="" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red">
   </a>
   <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
-    <img height="35px" alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img height="35px" alt="" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=skyblue">
   </a><br/>
    <a href="https://www.w3schools.com/html/">
-    <img  height="35px" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img  height="35px" alt="" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange">
   </a>
    <a href="https://www.w3schools.com/css/">
-    <img height="35px" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img height="35px" alt="" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=skyblue">
   </a>
   
 ## Tool's
@@ -77,11 +80,11 @@
 
 - 5⭐in Java on 
     <a href="https://www.hackerrank.com/pavitra_Behara?hr_r=1">
-    <img alt="" height="35px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=2EC866">
   </a><br/> 
 - 2⭐(Beginner) on
    <a href="https://www.codechef.com/users/pavitra_2003">
-    <img alt="" height="35px" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/-CodeChef-000?style=for-the-badge&logo=CodeChef&logoColor=5B4638">
   </a><br/>  
     
 ## Study's
@@ -93,16 +96,16 @@
 ## Contact me
 
   <a href="https://twitter.com/behara_pavitra">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
   </a>
   <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
-    <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5">
   </a>
   <a href="https://www.instagram.com/pavitra.js/">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F">
   </a>
   <a href="https://www.pavitraredmi@gmail.com">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836">
   </a>
   
 
