@@ -3,7 +3,7 @@
 # Hey there,my self Pavitra Behara 👨‍💻
 
 - 🔭 I’m currently working on React.js, Next.js and React Native
-- 🍁 I’m currently learning Express.js
+- 🍁 I’m currently learning Express.js & MongoDB
 - 🤝 I’m looking to collaborate with Web / App developers(Nextjs / React Native developers preferred)
 - 🤔 I’m looking for help with making production level apps
 - 💬 Ask me about React Native, Next.js, React.js, Java and TypeScript/JavaScript
