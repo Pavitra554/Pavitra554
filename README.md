@@ -15,9 +15,7 @@
 <a href="https://www.nodejs.dev/">
     <img height="35px" src="https://img.shields.io/badge/node.js-010409?style=for-the-badge&logo=node.js&logoColor=008000">
   </a><br/>
-<a href="https://docs.swmansion.com/react-native-reanimated/">
-    <img height="35px" src="https://img.shields.io/badge/React_Native_Reanimated_V2-010409?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a><br/>
+
 <a href="https://reactnative.dev/">
     <img height="35px" src="https://img.shields.io/badge/React_Native-010409?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a><br/>
