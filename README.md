@@ -28,10 +28,6 @@
   <a href="https://redux-toolkit.js.org/">
     <img height="35px" src="https://img.shields.io/badge/Redux-010409?style=for-the-badge&logo=redux&logoColor=764abc">
   </a>
-  <a href="https://reactrouter.com/">
-    <img height="35px" src="https://img.shields.io/badge/React_Router-010409?style=for-the-badge&logo=react-router&logoColor=f44250">
-  </a>
-  <br/>
   <a href="https://www.framer.com/motion/">
    <img height="35px" src="https://img.shields.io/badge/Framer%20motion-010409?style=for-the-badge&logo=framer&logoColor=white"/>
   </a>
@@ -55,12 +51,6 @@
   <a href="https://www.geeksforgeeks.org/c-language-set-1-introduction/">
     <img height="35px" alt="" src="https://img.shields.io/badge/C-010409?style=for-the-badge&logo=c&logoColor=skyblue">
   </a><br/>
-   <a href="https://www.w3schools.com/html/">
-    <img  height="35px" alt="" src="https://img.shields.io/badge/HTML5-010409?style=for-the-badge&logo=html5&logoColor=orange">
-  </a>
-   <a href="https://www.w3schools.com/css/">
-    <img height="35px" alt="" src="https://img.shields.io/badge/CSS3-010409?style=for-the-badge&logo=css3&logoColor=skyblue">
-  </a>
   
 ## Tool's
 <a><img style="margin:10px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
