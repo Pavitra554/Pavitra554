@@ -70,10 +70,7 @@
     <a href="https://www.hackerrank.com/pavitra_Behara?hr_r=1">
     <img alt="" height="35px" src="https://img.shields.io/badge/-Hackerrank-010409?style=for-the-badge&logo=HackerRank&logoColor=2EC866">
   </a><br/> 
-- 2⭐(Beginner) on
-   <a href="https://www.codechef.com/users/pavitra_2003">
-    <img alt="" height="35px" src="https://img.shields.io/badge/-CodeChef-010409?style=for-the-badge&logo=CodeChef&logoColor=5B4638">
-  </a><br/>  
+
     
 ## Study's
 - Currently, I am purchasing B.Tech from 
