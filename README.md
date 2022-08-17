@@ -87,12 +87,8 @@
   <a href="https://leetcode.com/Pavitra554/">
     <img alt="" height="35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
-  
-
-  
-  
-    
-## Thanks for visiting🤗
+ 
+## Happy hacking_
 
 
 
