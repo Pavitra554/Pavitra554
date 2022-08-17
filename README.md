@@ -88,7 +88,7 @@
     <img alt="" height="35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
  
-## Happy hacking_
+# $ Happy Hacking _
 
 
 
