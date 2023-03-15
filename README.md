@@ -3,7 +3,7 @@
 # Hey there,my self Pavitra Behara 👨‍💻
 
 - 🔭 I’m currently working on React.js, Next.js and React Native
-- 🍁 I’m currently learning Express.js & MongoDB
+- 🍁 I’m currently learning REST
 - 🤝 I’m looking to collaborate with Web / App developers(Nextjs / React Native developers preferred)
 - 🤔 I’m looking for help with making production level apps
 - 💬 Ask me about React Native, Next.js, React.js, Java and TypeScript/JavaScript
@@ -13,41 +13,11 @@
 
  
   
-  ## GitHub Stats
+## GitHub Stats
 
 [![Pavitra's wakatime stats](https://github-readme-stats.vercel.app/api/?username=Pavitra554)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavitra554&hide_border=true)](https://git.io/streak-stats)
 
-
-## Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra554&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
-    
-## Study's
-- Currently, I am purchasing B.Tech from 
-  <a href="https://www.soa.ac.in/">
-    Siksha 'O' Anusandhan University (ITER) Bhubaneswar Odisha.
-  </a>
-
-## Contact me
-
-  <a href="https://twitter.com/pavitra_ts">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pavitra-behara-07941a200/">
-    <img alt="" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/pavitra.ts/">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:pavitraredmi@gmail.com">
-    <img alt="" height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/pavitra_Behara">
-    <img alt="" height="35px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/Pavitra554/">
-    <img alt="" height="35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-  </a>
  
 # $ Happy Hacking _
 
