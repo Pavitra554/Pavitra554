@@ -3,8 +3,8 @@
 # Hey there,my self Pavitra Behara 👨‍💻
 
 - 🔭 I’m currently working on React.js, Next.js and React Native
-- 🍁 I’m currently learning REST
-- 🤝 I’m looking to collaborate with Web / App developers(Nextjs / React Native developers preferred)
+- 🍁 I’m currently learning Jest
+- 🤝 I’m looking to collaborate with Web / App developers(Nextjs / React Native developers preferred) / Backend Dev
 - 🤔 I’m looking for help with making production level apps
 - 💬 Ask me about React Native, Next.js, React.js, Java and TypeScript/JavaScript
 - 😄 Pronouns: He/His
